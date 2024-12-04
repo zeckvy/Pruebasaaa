@@ -1,0 +1,7 @@
+<resources>
+    <color name="primaryColor">#F0E68C</color>
+    <color name="secondaryColor">#CD853F</color>
+    <color name="accentColor">#8B4513</color>
+    <color name="textColor">#4B0082</color>
+    <color name="hintColor">#DAA520</color>
+</resources>
